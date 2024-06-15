@@ -1,0 +1,12 @@
+{
+  "name": "Cups Fortune Card 54",
+  "description": "Cups Fortune Card 54 description.",
+  "image": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/c.jpg",
+  "content_url": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/c.jpg",
+  "attributes": [
+    {
+      "Pattern": "Cups",
+      "LUCK Type": "Fortune"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Pentacles Fortune Card 68",
+  "description": "Pentacles Fortune Card 68 description.",
+  "image": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/c.jpg",
+  "content_url": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/c.jpg",
+  "attributes": [
+    {
+      "Pattern": "Pentacles",
+      "LUCK Type": "Fortune"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Wands Career Card 30",
+  "description": "Wands Career Card 30 description.",
+  "image": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/b.jpg",
+  "content_url": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/b.jpg",
+  "attributes": [
+    {
+      "Pattern": "Wands",
+      "LUCK Type": "Career"
+    }
+  ]
+}

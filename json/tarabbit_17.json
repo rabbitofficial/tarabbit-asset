@@ -1,0 +1,12 @@
+{
+  "name": "Pentacles love Card 17",
+  "description": "Pentacles love Card 17 description.",
+  "image": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/a.jpg",
+  "content_url": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/a.jpg",
+  "attributes": [
+    {
+      "Pattern": "Pentacles",
+      "LUCK Type": "love"
+    }
+  ]
+}
