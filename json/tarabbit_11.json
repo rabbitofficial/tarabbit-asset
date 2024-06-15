@@ -6,7 +6,7 @@
   "attributes": [
     {
       "Pattern": "Swords",
-      "LUCK Type": "love"
+      "LUCK": "love"
     }
   ]
 }

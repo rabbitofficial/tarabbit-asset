@@ -62,7 +62,7 @@ for (let i = 1; i <= 14; i++) {
     attributes: [
       {
         Pattern: mypattern,
-        "LUCK Type": lucktype,
+        LUCK: lucktype,
       },
     ],
   };
@@ -88,7 +88,7 @@ for (let i = 1; i <= 12; i++) {
     attributes: [
       {
         Pattern: mypattern,
-        "LUCK Type": lucktype,
+        LUCK: lucktype,
       },
     ],
   };
@@ -114,7 +114,7 @@ for (let i = 1; i <= 14; i++) {
     attributes: [
       {
         Pattern: mypattern,
-        "LUCK Type": lucktype,
+        LUCK: lucktype,
       },
     ],
   };
@@ -140,7 +140,7 @@ for (let i = 1; i <= 12; i++) {
     attributes: [
       {
         Pattern: mypattern,
-        "LUCK Type": lucktype,
+        LUCK: lucktype,
       },
     ],
   };
@@ -166,7 +166,7 @@ for (let i = 1; i <= 14; i++) {
     attributes: [
       {
         Pattern: mypattern,
-        "LUCK Type": lucktype,
+        LUCK: lucktype,
       },
     ],
   };
@@ -192,7 +192,7 @@ for (let i = 1; i <= 2; i++) {
     attributes: [
       {
         Pattern: mypattern,
-        "LUCK Type": lucktype,
+        LUCK: lucktype,
       },
     ],
   };
@@ -218,7 +218,7 @@ for (let i = 1; i <= 10; i++) {
     attributes: [
       {
         Pattern: mypattern,
-        "LUCK Type": lucktype,
+        LUCK: lucktype,
       },
     ],
   };
