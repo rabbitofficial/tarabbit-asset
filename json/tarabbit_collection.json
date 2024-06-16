@@ -1,9 +1,10 @@
 {
-    "name": "Tarot card on tarabbit",
-    "description": "This collection is created for showing tarot NFT cards",
+    "name": "Tarabbit Genesis Lucky Card",
+    "description": "Experience the mystical world of tarot with the Tarabbit Genesis Lucky Card collection. These are blind boxes where each card can unlock unique insights based on the progress of Tarabbit buidls. Collect your luck of love, career, fortunes!",
     "image":"https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/cover.jpg",
     "cover_image":"https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/cover.jpg",
     "social_links": [
+        "https://www.tarabbit.com",
         "https://t.me/tarabbit"
     ]
 }
