@@ -1,12 +1,16 @@
 {
-  "name": "Other Fortune Card 75",
-  "description": "Other Fortune Card 75 description.",
+  "name": "Tarabbit Genesis Lucky Card 75",
+  "description": "Tarabbit Genesis Lucky Card 75",
   "image": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/c.jpg",
   "content_url": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/c.jpg",
   "attributes": [
     {
-      "Pattern": "Other",
-      "LUCK": "Fortune"
+      "trait_type": "Pattern",
+      "value": "Other"
+    },
+    {
+      "trait_type": "lucktype",
+      "value": "Fortune"
     }
   ]
 }

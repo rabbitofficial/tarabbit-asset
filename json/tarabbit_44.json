@@ -1,12 +1,16 @@
 {
-  "name": "Other Career Card 44",
-  "description": "Other Career Card 44 description.",
+  "name": "Tarabbit Genesis Lucky Card 44",
+  "description": "Tarabbit Genesis Lucky Card 44",
   "image": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/b.jpg",
   "content_url": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/b.jpg",
   "attributes": [
     {
-      "Pattern": "Other",
-      "LUCK": "Career"
+      "trait_type": "Pattern",
+      "value": "Other"
+    },
+    {
+      "trait_type": "lucktype",
+      "value": "Career"
     }
   ]
 }

@@ -1,12 +1,16 @@
 {
-  "name": "Pentacles Fortune Card 67",
-  "description": "Pentacles Fortune Card 67 description.",
+  "name": "Tarabbit Genesis Lucky Card 67",
+  "description": "Tarabbit Genesis Lucky Card 67",
   "image": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/c.jpg",
   "content_url": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/c.jpg",
   "attributes": [
     {
-      "Pattern": "Pentacles",
-      "LUCK": "Fortune"
+      "trait_type": "Pattern",
+      "value": "Pentacles"
+    },
+    {
+      "trait_type": "lucktype",
+      "value": "Fortune"
     }
   ]
 }
