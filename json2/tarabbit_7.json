@@ -1,0 +1,16 @@
+{
+  "name": "Tarabbit Genesis Lucky Card 7",
+  "description": "Tarabbit Genesis Lucky Card 7",
+  "image": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/a.jpg",
+  "content_url": "https://raw.githubusercontent.com/rabbitofficial/tarabbit-asset/main/nft/a.jpg",
+  "attributes": [
+    {
+      "trait_type": "Pattern",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "lucktype",
+      "value": "love"
+    }
+  ]
+}

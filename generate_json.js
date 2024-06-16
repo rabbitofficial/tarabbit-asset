@@ -72,7 +72,7 @@ for (let i = 1; i <= 14; i++) {
   };
 
   fs.writeFileSync(
-    `./json/tarabbit_${globalIndex}.json`,
+    `./json2/tarabbit_${globalIndex}.json`,
     JSON.stringify(data, null, 2)
   );
   globalIndex++;
@@ -102,7 +102,7 @@ for (let i = 1; i <= 12; i++) {
   };
 
   fs.writeFileSync(
-    `./json/tarabbit_${globalIndex}.json`,
+    `./json2/tarabbit_${globalIndex}.json`,
     JSON.stringify(data, null, 2)
   );
   globalIndex++;
@@ -132,7 +132,7 @@ for (let i = 1; i <= 14; i++) {
   };
 
   fs.writeFileSync(
-    `./json/tarabbit_${globalIndex}.json`,
+    `./json2/tarabbit_${globalIndex}.json`,
     JSON.stringify(data, null, 2)
   );
   globalIndex++;
@@ -162,7 +162,7 @@ for (let i = 1; i <= 12; i++) {
   };
 
   fs.writeFileSync(
-    `./json/tarabbit_${globalIndex}.json`,
+    `./json2/tarabbit_${globalIndex}.json`,
     JSON.stringify(data, null, 2)
   );
   globalIndex++;
@@ -192,7 +192,7 @@ for (let i = 1; i <= 14; i++) {
   };
 
   fs.writeFileSync(
-    `./json/tarabbit_${globalIndex}.json`,
+    `./json2/tarabbit_${globalIndex}.json`,
     JSON.stringify(data, null, 2)
   );
   globalIndex++;
@@ -222,7 +222,7 @@ for (let i = 1; i <= 2; i++) {
   };
 
   fs.writeFileSync(
-    `./json/tarabbit_${globalIndex}.json`,
+    `./json2/tarabbit_${globalIndex}.json`,
     JSON.stringify(data, null, 2)
   );
   globalIndex++;
@@ -252,7 +252,7 @@ for (let i = 1; i <= 10; i++) {
   };
 
   fs.writeFileSync(
-    `./json/tarabbit_${globalIndex}.json`,
+    `./json2/tarabbit_${globalIndex}.json`,
     JSON.stringify(data, null, 2)
   );
   globalIndex++;
